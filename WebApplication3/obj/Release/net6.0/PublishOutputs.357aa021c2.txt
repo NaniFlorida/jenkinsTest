@@ -1,0 +1,11 @@
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.exe
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.dll
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.deps.json
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.runtimeconfig.json
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.pdb
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\venkatesh\jenkins\WebApplication3\WebApplication3\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
